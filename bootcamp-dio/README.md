@@ -5,6 +5,7 @@ Desafios de projeto e anotações do bootcamp. Um diretório por desafio, cada u
 
 | # | Desafio | Módulo | Status |
 | --- | --- | --- | --- |
+| 0 | [Potencializando Seus Estudos e Carreira com IA](01-estudos-e-carreira-com-ia/) | Introdução · IA | 🟡 |
 | 1 | Simulação de ataque em laboratório | Pentest e Hacking Ético | ⏳ |
 | 2 | Solução de segurança na AWS (IAM, GuardDuty, KMS) | AWS | ⏳ |
 | 3 | Agente de IA para identificar e corrigir vulnerabilidades | IA | ⏳ |
